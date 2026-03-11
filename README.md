@@ -25,7 +25,7 @@ The goal: build an automated, data-driven decoder that matches or exceeds the pe
 <br>
 
 <p align="center">
-  <img src="assets/csp_feature_space.png" alt="CSP Feature Space Visualization" width="500"/>
+  <img src="csp_feature_space.png" alt="CSP Feature Space Visualization" width="500"/>
   <br>
   <em>Left: Raw C3/C4 power shows heavy class overlap. Right: After CSP spatial filtering, left and right motor imagery classes separate into distinct clusters.</em>
 </p>
